@@ -1,4 +1,4 @@
-# rime-erjianziBoard
+# rime-ErjianziBoard
 rime-二简字拼音输入法方案
 
 说明：
